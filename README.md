@@ -1,9 +1,11 @@
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/danielscholl?template=classic&introduction=1&introduction.title=true&config.timezone=America%2FChicago)
 
 <!--
 **danielscholl/danielscholl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
