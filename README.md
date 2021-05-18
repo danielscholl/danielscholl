@@ -1,4 +1,5 @@
-![Metrics](https://metrics.lecoq.io/danielscholl?template=classic&introduction=1&config.timezone=America%2FChicago)
+![Metrics](https://metrics.lecoq.io/danielscholl?template=classic&config.timezone=America%2FChicago)
+
 
 Open Source Software Contributor to [Open Subsurface Data Universe](https://community.opengroup.org/danielscholl)
 <!--
