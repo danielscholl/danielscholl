@@ -1,6 +1,6 @@
 ![Metrics](https://metrics.lecoq.io/danielscholl?template=classic&config.timezone=America%2FChicago)
 
-- 🔭 I’m currently working on [Open Subsurface Data Universe](https://community.opengroup.org/danielscholl)
+🔭 I’m currently working on [Open Subsurface Data Universe](https://community.opengroup.org/danielscholl)
 
 <!--
 **danielscholl/danielscholl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
