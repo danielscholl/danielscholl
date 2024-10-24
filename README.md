@@ -2,10 +2,11 @@
 ### 🧮 GitHub Statistics
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=danielscholl&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danielscholl)](https://git.io/streak-stats)
-<!-- ![](https://skillicons.dev/icons?i=azure,terraform,docker,vscode,git,github,docker,bash,githubactions,maven,linux,md) -->
+
 
 🔭 I’m currently working on [OSDU™](https://community.opengroup.org/danielscholl)
 
+![](https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,bash,terraform,vscode,git,github,githubactions,maven,md)
 
 ## 🚀 Projects 
 |🔮 Project | 👮 Role | ⭐ Stars | 📚 Forks | 
