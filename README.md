@@ -4,7 +4,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danielscholl)](https://git.io/streak-stats)
 
 
-🔭 I’m currently working on [OSDU™](https://community.opengroup.org/danielscholl)
+### 🔭 I’m currently a contributing member to the opensource [OSDU™](https://community.opengroup.org/danielscholl) community.
 
 ![](https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,bash,terraform,vscode,git,github,githubactions,maven,md)
 
