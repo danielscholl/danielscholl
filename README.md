@@ -1,12 +1,14 @@
 
+## 🔭 I’m currently a contributing member to the opensource [OSDU™](https://community.opengroup.org/danielscholl) community.
+
 ### 🧮 GitHub Statistics
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=danielscholl&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danielscholl)](https://git.io/streak-stats)
 
 
-### 🔭 I’m currently a contributing member to the opensource [OSDU™](https://community.opengroup.org/danielscholl) community.
 
-![](https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,bash,terraform,vscode,git,github,githubactions,maven,md)
+### 🛠️ Current Active Skills
+![](https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,bash,terraform,vscode,git,github,githubactions,maven,md,ai)
 
 ## 🚀 Projects 
 |🔮 Project | 👮 Role | ⭐ Stars | 📚 Forks | 
